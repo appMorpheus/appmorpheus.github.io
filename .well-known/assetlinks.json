@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.appmorpheus.letria",
+      "sha256_cert_fingerprints": ["AE:1C:A0:61:E1:5F:E0:0B:B2:3C:FE:59:17:62:D6:BB:EB:7B:DB:A9:29:6E:67:76:38:46:45:96:02:6E:02:17"]
+    }
+  }
+]
